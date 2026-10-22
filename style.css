@@ -2,10 +2,13 @@ ul{list-style-type-none;
   }
 
 body{background-color:moss green mix beige;
-     border: 3px solid gray;
-  border-radius: 15px;
-     padding:20px
+     border: 3 px solid gray;
+  border-radius: 15 px; 
+     padding:20 px 
     }
 
 h1{text-align : center ;
-  }
+img {display: block;
+  margin: auto;
+  width: 50 %; 
+    }
