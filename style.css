@@ -71,7 +71,13 @@ body::after {
     pointer-events: none;
     z-index: -1;
 }
-
+.container{
+   max-width: 800px;
+   margin: 30px auto;
+   border: 5px solid black;
+   border-radius: 10px;
+   padding: 20px;
+}
 
 /* FLOATING SPARKLES */
 
